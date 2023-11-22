@@ -73,7 +73,7 @@
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/ElkinEvgeny/badges/large)
 --- -->
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/ElkinEvgeny/badges/large)
