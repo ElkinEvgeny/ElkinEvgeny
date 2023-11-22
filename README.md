@@ -50,7 +50,6 @@
 
 <div>
   <img src="https://imgur.com/BH6QX0o.png" title="Google Analytics" alt="Google Analytics" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://imgur.com/oU1mf9K.png" title="Яндекс.Метрика" alt="Яндекс.Метрика" width="40" height="40"/>&nbsp;
   <img src="https://imgur.com/5z2d9U0.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://imgur.com/irVT0MQ.png" title="Tableu" alt="Tableu" width="40" height="40"/>&nbsp;
