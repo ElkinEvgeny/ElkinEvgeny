@@ -26,22 +26,19 @@
 | stepik.org/"Программирование на Python"                           | 03/2020 - 04/2020 |
 | stepik.org/"Введение в программирование(C++)"                     | 06/2022 - 07/2022 |
 | stepik.org/"Поколение Python: курс для продвинутых"               | 10/2023 - н.в.    |
-
+| stepik.org/"Телеграм-боты на Python и AIOgram"                    |11/2023 - н.в.     |
 ### 💻 Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+  <img src="https://imgur.com/QEDYBTM.png" title="С++" alt="С++" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/zWNCd2h.jpg" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/73GNvd5.png" title="R" alt="R" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/OY4apj2.jpg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/rqsMqqo.jpg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/9H8WHB8.jpg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/aZP3TUR.jpg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
+  <img src="https://imgur.com/9VNIqLU.jpg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
 </div>
 
 ---
