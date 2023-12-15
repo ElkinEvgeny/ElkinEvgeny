@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BjcThvaDVkZXlxODI4eXk1a2JrNHhyazNlYmNrd2tpYzFic25hMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" height="40">:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. 
 <div align="center">
