@@ -73,9 +73,6 @@
 --- -->
 
 ### 💻 Codewars:
-![codewars](https://www.codewars.com/users/ElkinEvgeny/badges/large)
-
-### 💻 Codewars:
 ![Codewars](https://github.r2v.ch/codewars?user=ElkinEvgeny&name=true&top_languages=true&stroke=%23)
 
 
