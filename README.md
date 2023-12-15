@@ -72,8 +72,8 @@
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
 --- -->
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElkinEvgeny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElkinEvgeny)](https://github.com/anuraghazra/github-readme-stats))
 
 
 
