@@ -38,7 +38,8 @@
   <img src="https://imgur.com/rqsMqqo.jpg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
   <img src="https://imgur.com/9H8WHB8.jpg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>&nbsp
   <img src="https://imgur.com/aZP3TUR.jpg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
-  <img src="https://imgur.com/9VNIqLU.jpg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://imgur.com/9VNIqLU.jpg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp
+  <img src="https://i.imgur.com/L5zprco.jpg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
 ---
