@@ -5,9 +5,9 @@
 
 ### Обо мне <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BjcThvaDVkZXlxODI4eXk1a2JrNHhyazNlYmNrd2tpYzFic25hMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40" height="40">:
 
-Я Data-аналитик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с интенсива в Московском физико-техническом институте. С 2019 года по настоящее время я на постоянной основе прохожу различные курсы и повышаю свои Hard skills. Мне интересно все, что связано с аналитикой и data science. С октября 2020 по июнь 2022 года я проходил обучение по программе дополнительного профессионального образования "Продуктовая аналитика" на курсах GeekBrains. 
+Я Data-аналитик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с интенсива в Московском физико-техническом институте. С 2019 года по настоящее время я на постоянной основе прохожу различные курсы и повышаю свои Hard skills. Мне интересно все, что связано с аналитикой и data science. С октября 2020 по июнь 2022 года я проходил обучение по программе дополнительного профессионального образования "Продуктовая аналитика" на курсах GeekBrains, являюсь дипломированным маркетологом.
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 - :telescope: Участвовал ------
