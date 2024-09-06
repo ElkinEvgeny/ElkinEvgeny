@@ -10,11 +10,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: Участвовал ------
+- :seedling: Завершил курсы GeekBrains
 
-- :seedling: Завершил курсы -------
-
-- :zap: Являюсь с-----------------
+- :telescope: Занимаюсь анализом данных с 2017 года
 
 - :mailbox: Как связаться со мной: 
 ---
